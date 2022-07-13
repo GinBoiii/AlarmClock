@@ -1,2 +1,4 @@
 # AlarmClock
-Part of our dragonhack project
+Part of our Dragonhack 2022 project
+
+- Gin; head of Saškotova klapa
